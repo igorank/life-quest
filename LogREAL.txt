@@ -1,0 +1,403 @@
+[2020-04-05 23:16:27.551839] Did activity: Code a program. +200 points!
+[2020-04-05 23:16:42.062011] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-05 23:17:14.333741] Displayed activities and rewards details.
+[2020-04-05 23:17:23.076157] Display points.
+[2020-04-05 23:17:34.291911] Used reward: 2 hours of Netflix.
+[2020-04-05 23:17:34.294903] Exit program.
+[2020-04-05 23:21:48.193078] Displayed activities and rewards details.
+[2020-04-05 23:22:02.281488] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-05 23:22:02.283483] Exit program.
+[2020-04-05 23:37:22.857221] Add activity: Catchup with a friend.
+[2020-04-05 23:37:51.786707] Displayed activities and rewards details.
+[2020-04-05 23:37:51.808948] Exit program.
+[2020-04-05 23:39:18.487488] Displayed activities and rewards details.
+[2020-04-05 23:39:18.487488] Exit program.
+[2020-04-05 23:40:18.750447] Displayed activities and rewards details.
+[2020-04-05 23:40:18.766073] Exit program.
+[2020-04-06 21:33:34.533326] Did activity: Wash dinner dishes. +20 points!
+[2020-04-06 21:34:14.769163] Did activity: Cook (easy). +10 points!
+[2020-04-06 21:34:49.847340] NIL
+[2020-04-06 21:34:49.858096] Exit program.
+[2020-04-06 23:28:31.187949] Did activity: Catchup with a friend. +30 points!
+[2020-04-06 23:30:56.229188] Displayed activities and rewards details.
+[2020-04-06 23:30:56.239444] Exit program.
+[2020-04-07 13:54:03.139393] Used reward: 2 hours of Netflix.
+[2020-04-07 13:54:15.426009] Did activity: Cook (easy). +10 points!
+[2020-04-07 13:55:12.558076] Displayed activities and rewards details.
+[2020-04-07 13:55:12.559071] Exit program.
+[2020-04-07 18:18:33.257261] Did activity: 1hr practice instr. +50 points!
+[2020-04-07 18:18:39.082443] Did activity: 1hr practice instr. +50 points!
+[2020-04-07 18:18:51.213637] Displayed activities and rewards details.
+[2020-04-07 18:18:51.213637] Exit program.
+[2020-04-07 18:19:10.457799] NIL
+[2020-04-07 18:19:23.104412] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-07 18:19:35.942070] NIL
+[2020-04-07 18:19:35.946840] Exit program.
+[2020-04-07 22:31:17.128535] Did activity: Catchup with a friend. +30 points!
+[2020-04-07 22:31:24.809519] Did activity: Catchup with a friend. +30 points!
+[2020-04-07 22:31:43.995464] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-07 22:31:59.334185] NIL
+[2020-04-07 22:31:59.337483] Exit program.
+[2020-04-08 19:06:40.174943] Did activity: 1hr practice instr. +50 points!
+[2020-04-08 19:06:47.826287] Did activity: 1hr practice instr. +50 points!
+[2020-04-08 19:07:44.105418] Displayed activities and rewards details.
+[2020-04-08 19:07:57.677163] Used reward: 2 hours of Netflix.
+[2020-04-08 19:08:20.085691] Used reward: 2 hours of Netflix.
+[2020-04-08 19:08:32.041734] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-08 19:09:29.406761] NIL
+[2020-04-08 19:09:29.417077] Exit program.
+[2020-04-09 21:46:01.964635] Used reward: 2 hours of Netflix.
+[2020-04-09 21:46:16.422432] Did activity: 1hr practice instr. +50 points!
+[2020-04-09 21:46:21.071884] Did activity: 1hr practice instr. +50 points!
+[2020-04-09 21:46:47.396775] Display points.
+[2020-04-09 21:47:40.323035] Displayed activities and rewards details.
+[2020-04-09 21:47:45.445659] Did activity: Catchup with a friend. +30 points!
+[2020-04-09 21:47:51.729795] Did activity: Wash dinner dishes. +20 points!
+[2020-04-09 21:49:42.098467] NIL
+[2020-04-09 21:49:42.102558] Exit program.
+[2020-04-09 21:51:23.692393] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-09 21:51:23.696466] Exit program.
+[2020-04-10 12:53:59.723957] Did activity: Catchup with a friend. +30 points!
+[2020-04-10 12:54:07.497640] Did activity: 1hr practice instr. +50 points!
+[2020-04-10 12:54:29.599435] Received reward: 2 hours of gaming. -100 points!
+[2020-04-10 12:54:42.227978] NIL
+[2020-04-10 12:54:42.235657] Exit program.
+[2020-04-11 11:58:51.509046] Used reward: 2 hours of Netflix.
+[2020-04-11 11:58:57.198499] Used reward: 2 hours of Netflix.
+[2020-04-11 12:00:28.116582] Displayed activities and rewards details.
+[2020-04-11 12:00:28.118576] Exit program.
+[2020-04-12 09:34:53.407898] Did activity: 1hr practice instr. +50 points!
+[2020-04-12 09:35:02.894160] Did activity: Wakeup before 10. +50 points!
+[2020-04-12 09:35:10.821826] Did activity: Wash dinner dishes. +20 points!
+[2020-04-12 09:35:32.451085] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-12 09:35:32.451085] Exit program.
+[2020-04-13 12:41:22.672529] Used reward: 2 hours of Netflix.
+[2020-04-13 12:41:43.741788] Did activity: 1hr practice instr. +50 points!
+[2020-04-13 12:41:59.583054] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-13 12:41:59.584429] Exit program.
+[2020-04-13 16:55:14.880343] Did activity: 1hr practice instr. +50 points!
+[2020-04-13 16:55:20.843137] Did activity: 1hr practice instr. +50 points!
+[2020-04-13 16:55:29.439568] Used reward: 2 hours of Netflix.
+[2020-04-13 16:55:38.267225] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-13 16:56:08.050969] Displayed activities and rewards details.
+[2020-04-13 16:56:08.057617] Exit program.
+[2020-04-13 23:25:25.204145] Did activity: Bake. +100 points!
+[2020-04-13 23:25:52.498086] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-13 23:25:52.502595] Exit program.
+[2020-04-15 11:27:09.227059] Used reward: 2 hours of Netflix.
+[2020-04-15 11:27:22.355671] Used reward: 2 hours of Netflix.
+[2020-04-15 11:27:28.767738] Did activity: 1hr practice instr. +50 points!
+[2020-04-15 11:27:41.783940] NIL
+[2020-04-15 11:27:41.799931] Exit program.
+[2020-04-15 12:47:07.658335] Did activity: Circuit exercise. +30 points!
+[2020-04-15 12:47:11.993997] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-15 12:47:12.004787] Exit program.
+[2020-04-16 12:07:51.166282] Did activity: 1hr practice instr. +50 points!
+[2020-04-16 12:08:06.140765] Did activity: Bake. +100 points!
+[2020-04-16 12:08:11.102323] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-16 12:08:14.688121] Used reward: 2 hours of Netflix.
+[2020-04-16 12:08:39.821641] Used reward: 2 hours of Netflix.
+[2020-04-16 12:08:50.206676] NIL
+[2020-04-16 12:08:50.209130] Exit program.
+[2020-04-17 00:11:57.871614] Did activity: Circuit exercise. +30 points!
+[2020-04-17 00:12:16.594870] Did activity: Cook (med). +20 points!
+[2020-04-17 00:12:27.605024] Did activity: Wakeup before 10. +50 points!
+[2020-04-17 00:12:38.608011] Did activity: Read a book. +150 points!
+[2020-04-17 00:12:48.353695] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-17 00:12:56.276026] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-17 00:13:09.872799] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-17 00:13:50.855161] Used reward: 2 hours of Netflix.
+[2020-04-17 00:14:52.737875] NIL
+[2020-04-17 00:14:52.741220] Exit program.
+[2020-04-17 10:14:59.426222] Used reward: 2 hours of Netflix.
+[2020-04-17 10:15:06.557263] Did activity: Wakeup before 10. +50 points!
+[2020-04-17 10:15:10.801658] NIL
+[2020-04-17 10:15:10.805645] Exit program.
+[2020-04-17 18:00:44.807236] Used reward: 2 hours of Netflix.
+[2020-04-17 18:00:53.069600] Did activity: Cook (med). +20 points!
+[2020-04-17 21:43:24.430568] Did activity: 1hr practice instr. +50 points!
+[2020-04-17 21:43:30.810610] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-17 21:43:33.191650] Used reward: 2 hours of Netflix.
+[2020-04-17 21:43:44.286210] Did activity: Wash dinner dishes. +20 points!
+[2020-04-17 21:43:54.207861] Did activity: 1hr learn computing. +50 points!
+[2020-04-17 22:15:23.793946] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-17 22:15:23.797972] Exit program.
+[2020-04-18 10:03:00.291133] Did activity: Wakeup before 10. +50 points!
+[2020-04-18 10:03:12.810680] NIL
+[2020-04-18 10:03:12.820982] Exit program.
+[2020-04-18 20:36:45.331802] Used reward: 2 hours of Netflix.
+[2020-04-18 20:36:56.958004] Did activity: 1hr practice instr. +50 points!
+[2020-04-18 20:37:02.230665] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-18 20:37:07.717394] Used reward: 2 hours of Netflix.
+[2020-04-18 20:37:47.751521] Displayed activities and rewards details.
+[2020-04-18 20:37:47.755594] Exit program.
+[2020-04-18 22:09:09.113725] Did activity: 1hr learn computing. +50 points!
+[2020-04-18 22:09:09.239741] Exit program.
+[2020-04-19 14:30:36.008407] Did activity: Wakeup before 10. +50 points!
+[2020-04-19 14:30:59.285521] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-19 14:31:07.593629] Used reward: 2 hours of Netflix.
+[2020-04-19 14:31:07.593629] Exit program.
+[2020-04-19 21:04:46.875989] Did activity: 1hr practice instr. +50 points!
+[2020-04-19 21:04:57.427355] Did activity: 1hr learn computing. +50 points!
+[2020-04-19 21:04:57.430486] Exit program.
+[2020-04-19 21:06:53.671600] Add activity: Do chore.
+[2020-04-19 21:06:53.682851] Exit program.
+[2020-04-19 23:18:04.522770] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-19 23:18:04.526721] Exit program.
+[2020-04-20 13:01:37.291373] Used reward: 2 hours of Netflix.
+[2020-04-20 13:02:14.312609] Displayed activities and rewards details.
+[2020-04-20 13:02:26.323156] Did activity: Wakeup before 10. +50 points!
+[2020-04-20 13:02:26.326453] Exit program.
+[2020-04-20 16:40:07.398878] Did activity: 1hr learn computing. +50 points!
+[2020-04-20 16:40:07.403774] Exit program.
+[2020-04-20 16:40:35.229025] Did activity: 1hr practice instr. +50 points!
+[2020-04-20 16:40:41.883456] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-20 16:40:41.888448] Exit program.
+[2020-04-21 11:14:39.487366] Used reward: 2 hours of Netflix.
+[2020-04-21 11:14:52.837632] Did activity: Bake. +100 points!
+[2020-04-21 11:14:59.785427] Did activity: Wakeup before 10. +50 points!
+[2020-04-21 11:15:21.000246] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-21 11:15:21.008958] Exit program.
+[2020-04-21 16:19:53.232617] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-21 16:20:00.141227] Used reward: 2 hours of Netflix.
+[2020-04-21 16:20:06.689163] Used reward: 2 hours of Netflix.
+[2020-04-21 16:20:26.557487] Displayed activities and rewards details.
+[2020-04-21 16:20:26.564345] Exit program.
+[2020-04-22 12:11:09.993058] Did activity: Cook (med). +20 points!
+[2020-04-22 12:11:09.996926] Exit program.
+[2020-04-22 14:52:02.853151] Did activity: 1hr learn computing. +50 points!
+[2020-04-22 14:52:02.857112] Exit program.
+[2020-04-22 18:24:00.836719] Did activity: 1hr practice instr. +50 points!
+[2020-04-22 18:24:00.841966] Exit program.
+[2020-04-22 18:25:37.678337] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-22 18:25:40.488971] NIL
+[2020-04-22 18:25:40.492925] Exit program.
+[2020-04-22 22:37:12.950779] Did activity: 1hr learn computing. +50 points!
+[2020-04-22 22:37:12.965667] Exit program.
+[2020-04-23 15:44:57.374454] Used reward: 2 hours of Netflix.
+[2020-04-23 15:45:36.847480] Did activity: Wakeup before 10. +50 points!
+[2020-04-23 15:45:42.276102] Did activity: Cook (easy). +10 points!
+[2020-04-23 15:45:46.118802] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-23 15:45:46.118802] Exit program.
+[2020-04-24 16:41:40.315083] Did activity: Bake. +100 points!
+[2020-04-24 16:41:49.509177] Did activity: Wakeup before 10. +50 points!
+[2020-04-24 16:42:47.715927] Used reward: 2 hours of Netflix.
+[2020-04-24 16:42:53.211313] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-24 16:42:53.215152] Exit program.
+[2020-04-25 10:28:03.238857] Did activity: Read a book. +150 points!
+[2020-04-25 10:28:08.854749] Did activity: Wakeup before 10. +50 points!
+[2020-04-25 10:28:21.474867] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-25 10:28:21.479755] Exit program.
+[2020-04-25 13:22:05.174988] Used reward: 2 hours of Netflix.
+[2020-04-25 13:22:21.655048] Did activity: 1hr learn computing. +50 points!
+[2020-04-25 13:22:34.858136] Did activity: 1hr learn computing. +50 points!
+[2020-04-25 13:22:34.860128] Exit program.
+[2020-04-26 10:08:55.400808] Used reward: 2 hours of Netflix.
+[2020-04-26 10:09:07.466630] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-26 10:09:14.793425] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-26 10:11:03.243319] Used reward: 2 hours of Netflix.
+[2020-04-26 10:11:16.999480] Did activity: Wash dinner dishes. +20 points!
+[2020-04-26 10:11:37.176642] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-26 10:12:11.933639] Used reward: 2 hours of Netflix.
+[2020-04-26 10:12:11.938479] Exit program.
+[2020-04-26 12:01:04.451650] Used reward: 2 hours of Netflix.
+[2020-04-26 12:01:04.467270] Exit program.
+[2020-04-26 13:13:32.738628] Did activity: 1hr practice instr. +50 points!
+[2020-04-26 13:13:32.738628] Exit program.
+[2020-04-26 15:01:16.884133] Did activity: Pushups/crunches 20x5. +30 points!
+[2020-04-26 15:01:24.634512] Did activity: Cook (med). +20 points!
+[2020-04-26 15:01:31.115989] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-26 15:01:31.130976] Exit program.
+[2020-04-26 16:11:47.354638] Did activity: 1hr learn computing. +50 points!
+[2020-04-26 16:11:47.354638] Exit program.
+[2020-04-26 19:52:23.407708] Did activity: Pushups/crunches 20x5. +30 points!
+[2020-04-26 19:53:02.915386] Add activity: Run run run.
+[2020-04-26 19:53:09.139629] Did activity: Run run run. +100 points!
+[2020-04-26 19:53:18.359251] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-26 19:53:18.363592] Exit program.
+[2020-04-27 13:32:52.857253] Used reward: 2 hours of Netflix.
+[2020-04-27 13:32:56.589438] NIL
+[2020-04-27 13:33:16.802257] Used reward: 2 hours of Netflix.
+[2020-04-27 13:33:40.884561] Did activity: Sleep before 12. +50 points!
+[2020-04-27 13:33:45.547809] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-27 13:33:45.550975] Exit program.
+[2020-04-27 21:34:48.424027] Used reward: 2 hours of Netflix.
+[2020-04-27 21:35:01.924831] Did activity: Pushups/crunches 20x5. +30 points!
+[2020-04-27 21:35:22.305862] Did activity: Wash dinner dishes. +20 points!
+[2020-04-27 21:35:30.774504] NIL
+[2020-04-27 21:35:30.774504] Exit program.
+[2020-04-27 22:16:59.100615] Did activity: Pushups/crunches 20x5. +30 points!
+[2020-04-27 22:16:59.108868] Exit program.
+[2020-04-28 09:46:11.848227] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-28 09:46:21.076792] Did activity: Wakeup before 930. +50 points!
+[2020-04-28 09:46:31.150670] NIL
+[2020-04-28 09:46:31.154837] Exit program.
+[2020-04-28 12:23:54.808569] Did activity: Pushups/crunches 20x5. +30 points!
+[2020-04-28 12:23:59.558111] NIL
+[2020-04-28 12:24:02.137151] Used reward: 2 hours of Netflix.
+[2020-04-28 12:24:02.141135] Exit program.
+[2020-04-28 14:24:06.653763] Did activity: Do chore. +30 points!
+[2020-04-28 14:24:09.801669] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-28 14:24:09.805382] Exit program.
+[2020-04-28 22:04:40.391272] Used reward: 2 hours of Netflix.
+[2020-04-28 22:05:15.604565] Did activity: Pushups/crunches 20x5. +30 points!
+[2020-04-28 22:05:15.604565] Exit program.
+[2020-04-29 09:42:48.593737] Did activity: Wakeup before 930. +50 points!
+[2020-04-29 09:42:48.593737] Exit program.
+[2020-04-29 09:43:11.467115] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-29 09:43:11.467115] Exit program.
+[2020-04-29 21:30:16.980532] Used reward: 2 hours of Netflix.
+[2020-04-29 21:31:08.492380] Did activity: Wash dinner dishes. +20 points!
+[2020-04-29 21:31:08.496328] Exit program.
+[2020-04-30 00:19:17.974911] Did activity: Circuit exercise. +30 points!
+[2020-04-30 00:19:22.544744] NIL
+[2020-04-30 00:19:22.548458] Exit program.
+[2020-04-30 10:42:08.469785] Did activity: Wakeup before 930. +50 points!
+[2020-04-30 10:43:05.580263] Displayed activities and rewards details.
+[2020-04-30 10:43:20.653296] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-30 10:43:20.657336] Exit program.
+[2020-04-30 16:17:40.062367] Did activity: 1hr learn computing. +50 points!
+[2020-04-30 16:17:45.425599] Did activity: 1hr learn computing. +50 points!
+[2020-04-30 16:17:55.850537] Did activity: Cook (easy). +10 points!
+[2020-04-30 16:17:55.866859] Exit program.
+[2020-04-30 16:42:01.736389] Received reward: 2 hours of Netflix. -100 points!
+[2020-04-30 16:42:11.274128] Did activity: Pushups/crunches 20x5. +30 points!
+[2020-04-30 16:42:29.613409] NIL
+[2020-04-30 16:42:29.617355] Exit program.
+[2020-05-01 10:31:37.972172] Did activity: Wakeup before 930. +50 points!
+[2020-05-01 10:31:43.048489] Did activity: Cook (easy). +10 points!
+[2020-05-01 10:31:47.295468] Used reward: 2 hours of Netflix.
+[2020-05-01 10:31:52.021230] Used reward: 2 hours of Netflix.
+[2020-05-01 10:31:56.442665] Received reward: 2 hours of Netflix. -100 points!
+[2020-05-01 10:31:56.442665] Exit program.
+[2020-05-01 12:11:59.899912] Used reward: 2 hours of Netflix.
+[2020-05-01 12:11:59.903711] Exit program.
+[2020-05-01 17:01:55.757300] Did activity: 1hr learn computing. +50 points!
+[2020-05-01 17:01:58.141352] Did activity: 1hr learn computing. +50 points!
+[2020-05-01 17:02:04.195082] Did activity: 1hr learn computing. +50 points!
+[2020-05-01 17:02:09.577646] Received reward: 2 hours of Netflix. -100 points!
+[2020-05-01 17:02:09.577646] Exit program.
+[2020-05-01 21:06:59.735297] Did activity: Cook (med). +20 points!
+[2020-05-01 21:07:08.194309] Did activity: Wash dinner dishes. +20 points!
+[2020-05-01 21:07:19.294921] NIL
+[2020-05-01 21:07:19.298707] Exit program.
+[2020-05-02 11:12:10.740757] Did activity: Shower before 10. +20 points!
+[2020-05-02 11:12:47.211990] Received reward: 2 hours of Netflix. -100 points!
+[2020-05-02 11:13:45.354462] NIL
+[2020-05-02 11:13:48.558700] Used reward: 2 hours of Netflix.
+[2020-05-02 11:13:48.562290] Exit program.
+[2020-05-02 18:08:17.967625] Used reward: 2 hours of Netflix.
+[2020-05-02 18:08:23.433699] Did activity: 1hr learn computing. +50 points!
+[2020-05-02 18:08:28.824753] Received reward: 2 hours of Netflix. -100 points!
+[2020-05-02 18:08:28.828587] Exit program.
+[2020-05-03 10:12:02.177707] Used reward: 2 hours of Netflix.
+[2020-05-03 10:12:07.853777] Did activity: Sleep before 12. +50 points!
+[2020-05-03 10:12:13.300115] Did activity: Wakeup before 930. +50 points!
+[2020-05-03 10:12:19.133211] Received reward: 2 hours of Netflix. -100 points!
+[2020-05-03 10:12:19.135369] Exit program.
+[2020-05-03 14:54:47.242789] Used reward: 2 hours of Netflix.
+[2020-05-03 14:54:52.796593] Did activity: 1hr learn computing. +50 points!
+[2020-05-03 14:55:01.961418] NIL
+[2020-05-03 14:55:01.961418] Exit program.
+[2020-05-03 22:26:24.942670] Did activity: 1hr learn computing. +50 points!
+[2020-05-03 22:26:29.175128] Did activity: Wash dinner dishes. +20 points!
+[2020-05-03 22:26:35.653443] Received reward: 2 hours of Netflix. -100 points!
+[2020-05-03 22:26:35.656642] Exit program.
+[2020-05-04 12:09:02.537594] Did activity: 1hr learn computing. +50 points!
+[2020-05-04 12:09:02.544217] Exit program.
+[2020-05-04 12:57:33.252913] Did activity: Cook (easy). +10 points!
+[2020-05-04 12:57:33.257013] Exit program.
+[2020-05-04 16:40:37.206933] Did activity: Bake. +100 points!
+[2020-05-04 16:40:37.210999] Exit program.
+[2020-05-05 09:55:29.814759] Received reward: 2 hours of Netflix. -100 points!
+[2020-05-05 09:55:59.355657] Used reward: 2 hours of Netflix.
+[2020-05-05 09:56:05.023412] Used reward: 2 hours of Netflix.
+[2020-05-05 09:56:15.306436] Did activity: Wakeup before 930. +50 points!
+[2020-05-05 09:56:25.533487] Received reward: 2 hours of Netflix. -100 points!
+[2020-05-05 09:56:25.548330] Exit program.
+[2020-05-05 09:58:56.579164] Did activity: Shower before 10. +20 points!
+[2020-05-05 09:58:56.583748] Exit program.
+[2020-05-05 22:47:55.006709] Used reward: 2 hours of Netflix.
+[2020-05-05 22:48:13.105643] Did activity: Wash dinner dishes. +20 points!
+[2020-05-05 22:48:21.636515] Did activity: Shower before 10. +20 points!
+[2020-05-05 22:48:26.907258] Did activity: Do chore. +30 points!
+[2020-05-05 22:48:33.057779] Received reward: 2 hours of Netflix. -100 points!
+[2020-05-05 22:48:33.057779] Exit program.
+[2020-05-06 11:45:09.778514] Used reward: 2 hours of Netflix.
+[2020-05-06 11:45:15.964185] Did activity: Wakeup before 930. +50 points!
+[2020-05-06 11:45:19.244377] NIL
+[2020-05-06 11:45:19.260000] Exit program.
+[2020-05-06 21:09:04.521857] Did activity: Bake. +100 points!
+[2020-05-06 21:09:11.186974] Did activity: Do chore. +30 points!
+[2020-05-06 21:09:17.818371] Received reward: 2 hours of Netflix. -100 points!
+[2020-05-06 21:09:21.930925] Received reward: 2 hours of Netflix. -100 points!
+[2020-05-06 21:09:21.934921] Exit program.
+[2020-05-07 19:48:55.759172] Used reward: 2 hours of Netflix.
+[2020-05-07 19:49:01.477440] Used reward: 2 hours of Netflix.
+[2020-05-07 19:49:15.159215] Did activity: Shower before 10. +20 points!
+[2020-05-07 19:49:20.087816] Did activity: Wakeup before 930. +50 points!
+[2020-05-07 19:49:59.489467] NIL
+[2020-05-07 19:49:59.489467] Exit program.
+[2020-05-07 23:16:26.991667] Did activity: Cook (med). +20 points!
+[2020-05-07 23:16:31.887684] Did activity: Cook (easy). +10 points!
+[2020-05-07 23:16:34.416295] Received reward: 2 hours of Netflix. -100 points!
+[2020-05-07 23:16:34.416295] Exit program.
+[2020-05-09 11:09:11.711071] Used reward: 2 hours of Netflix.
+[2020-05-09 14:42:44.043178] Did activity: 1hr practice instr. +50 points!
+[2020-05-09 14:42:44.046173] Exit program.
+[2020-05-09 16:51:47.243833] Did activity: 1hr learn computing. +50 points!
+[2020-05-09 16:51:47.243833] Exit program.
+[2020-05-10 22:35:00.015206] Did activity: Bake. +100 points!
+[2020-05-10 22:35:12.374217] Received reward: 2 hours of Netflix. -100 points!
+[2020-05-10 22:35:41.176875] Received reward: 2 hours of Netflix. -100 points!
+[2020-05-10 22:36:03.517659] NIL
+[2020-05-10 22:36:03.521806] Exit program.
+[2020-05-11 14:36:25.471593] Used reward: 2 hours of Netflix.
+[2020-05-11 14:36:32.611829] Did activity: Wakeup before 930. +50 points!
+[2020-05-11 14:36:36.924654] Did activity: Read a book. +150 points!
+[2020-05-11 14:36:52.014476] Did activity: 1hr practice instr. +50 points!
+[2020-05-11 14:37:12.294947] Received reward: 2 hours of Netflix. -100 points!
+[2020-05-11 14:37:12.298937] Exit program.
+[2020-05-11 21:51:02.915195] Used reward: 2 hours of Netflix.
+[2020-05-11 21:51:14.363115] Received reward: 2 hours of Netflix. -100 points!
+[2020-05-11 21:51:14.366746] Exit program.
+[2020-05-12 10:25:20.757511] Used reward: 2 hours of Netflix.
+[2020-05-12 10:27:27.013315] Displayed activities and rewards details.
+[2020-05-12 10:27:27.017115] Exit program.
+[2020-05-12 16:07:15.514043] Did activity: 1hr learn computing. +50 points!
+[2020-05-12 16:14:34.864394] Received reward: 2 hours of Netflix. -100 points!
+[2020-05-12 16:14:34.867661] Exit program.
+[2020-05-13 14:06:43.555291] Used reward: 2 hours of Netflix.
+[2020-05-13 14:06:47.258154] Used reward: 2 hours of Netflix.
+[2020-05-13 14:06:56.698272] Did activity: Wakeup before 930. +50 points!
+[2020-05-13 14:07:00.496960] NIL
+[2020-05-13 14:07:00.496960] Exit program.
+[2020-05-14 10:33:22.610703] Did activity: Bake. +100 points!
+[2020-05-14 10:33:59.079616] Received reward: 2 hours of Netflix. -100 points!
+[2020-05-14 10:34:11.594957] Did activity: 1hr practice instr. +50 points!
+[2020-05-14 10:34:11.598684] Exit program.
+[2020-05-15 14:11:24.683254] Used reward: 2 hours of Netflix.
+[2020-05-15 14:11:32.897021] Did activity: Wakeup before 930. +50 points!
+[2020-05-15 14:11:38.656916] Did activity: Cook (med). +20 points!
+[2020-05-15 14:11:48.087589] Received reward: 2 hours of Netflix. -100 points!
+[2020-05-15 14:11:48.091933] Exit program.
+[2020-05-15 15:53:48.250902] Did activity: 1hr practice instr. +50 points!
+[2020-05-15 15:53:53.861862] NIL
+[2020-05-15 15:53:53.874059] Exit program.
+[2020-05-15 17:21:57.488388] NIL
+[2020-05-15 17:21:57.504010] Exit program.
+[2020-05-15 17:32:29.738521] NIL
+[2020-05-15 17:32:29.746524] Exit program.
+[2020-05-17 11:36:32.492511] Used reward: 2 hours of Netflix.
+[2020-05-17 11:36:57.928289] Did activity: Shower before 10. +20 points!
+[2020-05-17 11:37:01.247811] NIL
+[2020-05-17 11:37:01.251983] Exit program.
+[2020-05-17 11:37:42.475468] Received reward: 2 hours of Netflix. -100 points!
+[2020-05-17 11:37:45.804995] NIL
+[2020-05-17 11:37:45.808139] Exit program.
+[2020-05-17 16:33:52.523523] NIL
+[2020-05-17 16:33:52.523523] Exit program.
+[2020-05-17 16:38:37.506217] NIL
+[2020-05-17 16:38:37.510203] Exit program.
+[2020-05-17 16:40:58.426658] NIL
+[2020-05-17 16:40:58.429649] Exit program.

@@ -1,0 +1,11 @@
+[2020-05-20 20:52:21.662751] Did activity: Code a program. +200 points! Remarks: THIS GUI.
+[2020-05-20 20:52:55.655100] Exit.
+[2020-05-25 11:59:34.914567] Used reward: 2 hours of Netflix.
+[2020-05-25 12:00:04.134272] Received reward: 2 hours of Netflix. -100 points!
+[2020-05-25 12:00:05.961224] Received reward: 2 hours of Netflix. -100 points!
+[2020-05-25 12:00:10.553598] Used reward: 2 hours of Netflix.
+[2020-05-25 12:00:15.304244] Used reward: 2 hours of Netflix.
+[2020-05-25 12:00:56.926483] Did activity: 1hr learn computing. +50 points! Remarks: watson assistant chatbot.
+[2020-05-25 12:01:39.510379] Did activity: Catchup with a friend. +30 points! Remarks: 3 hr call with ervin&xiwen.
+[2020-05-25 12:01:56.722536] Exit.
+[2023-05-07 22:53:39.509579] Exit.
