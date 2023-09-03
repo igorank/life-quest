@@ -1,32 +1,21 @@
-import logitClasses
-
 from kivy.app import App
 from kivy.core.window import Window
-from kivy.lang import Builder
-from kivy.uix.gridlayout import GridLayout
 from kivy.uix.label import Label
-from kivy.uix.textinput import TextInput
-from kivy.uix.recycleview import RecycleView
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.button import Button
 from kivy.uix.screenmanager import Screen, ScreenManager
 from kivy.storage.jsonstore import JsonStore
 
-
-class LabelDataItem(Label):
-    pass
+from activities_screen import ActivitiesScreen
 
 
 class MainScreen(Screen):
 
     def __init__(self, **var_args):
         super(MainScreen, self).__init__(**var_args)
-        self.store = JsonStore('data.json')
 
-        if 'points' in self.store:
-            self.points = self.store.get('points')['value']
-        else:
-            self.points = 0
+        app = App.get_running_app()
+        self.points = app.get_points()
 
         self.points_label = Label(text=f"My Current Points: {self.points}", font_size=30)
 
@@ -60,6 +49,8 @@ class MainScreen(Screen):
         self.add_widget(layout)
 
     def goto_activities(self, instance):
+        app = App.get_running_app()
+        app.store.put('points', value=self.points)
         self.manager.current = 'activities'
 
     def goto_rewards(self, instance):
@@ -73,15 +64,22 @@ class MainScreen(Screen):
         App.get_running_app().stop()
 
     def on_leave(self, *args):
-        self.store.put('points', value=self.points)
-
-
-class ActivitiesScreen(Screen):
-    pass
+        app = App.get_running_app()
+        app.store.put('points', value=self.points)
 
 
 # the Base Class of our Kivy App
 class MyApp(App):
+    def __init__(self):
+        super().__init__()
+        self.store = JsonStore('data.json')
+
+    def get_points(self) -> int:
+        if 'points' in self.store:
+            return self.store.get('points')['value']
+        else:
+            return 0
+
     def build(self):
         self.title = 'LifeQuest'
         Window.size = (1920, 1200)
@@ -92,5 +90,5 @@ class MyApp(App):
 
 
 if __name__ == '__main__':
-    Builder.load_file('main.kv')  # Load the .kv file
+    # Builder.load_file('main.kv')  # Load the .kv file
     MyApp().run()
