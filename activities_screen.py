@@ -1,7 +1,6 @@
 from kivy.app import App
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.screenmanager import Screen
-from kivy.uix.label import Label
 from kivy.uix.recycleview import RecycleView
 from kivy.uix.recycleview.views import RecycleDataViewBehavior
 from kivy.uix.button import Button
@@ -42,18 +41,22 @@ class ActivitiesScreen(Screen):
     def __init__(self, **var_args):
         super(ActivitiesScreen, self).__init__(**var_args)
 
-        # app = App.get_running_app()
         add_button = Button(text="Add Activity", on_press=self.goto_add_activity, size_hint_y=None, height=100)
         back_button = Button(text="Back", on_press=self.goto_main, size_hint_y=None, height=100)
 
-        rv = ActivitiesView()
+        self.rv = ActivitiesView()
 
         layout = BoxLayout(orientation='vertical', spacing=10)
-        layout.add_widget(rv)
+        layout.add_widget(self.rv)
         layout.add_widget(add_button)
         layout.add_widget(back_button)
 
         self.add_widget(layout)
+
+    def on_enter(self):
+        activities_list_widget = self.rv
+        activities_list_widget.clear_widgets()
+        activities_list_widget.add_widget(ActivitiesView())
 
     def goto_add_activity(self, instance):
         self.manager.current = 'add_activity'
