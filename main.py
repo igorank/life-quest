@@ -8,6 +8,7 @@ from kivy.uix.screenmanager import Screen, ScreenManager
 from kivy.storage.jsonstore import JsonStore
 
 from activities_screen import ActivitiesScreen
+from add_activity import AddActivityScreen
 
 
 class MainScreen(Screen):
@@ -87,6 +88,7 @@ class MyApp(App):
         screen_manager = ScreenManager()
         screen_manager.add_widget(MainScreen(name='main'))
         screen_manager.add_widget(ActivitiesScreen(name='activities'))
+        screen_manager.add_widget(AddActivityScreen(name='add_activity'))
         return screen_manager
 
 
