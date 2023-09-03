@@ -1,3 +1,4 @@
+from kivy.app import App
 from kivy.uix.label import Label
 from kivy.uix.button import Button
 from kivy.uix.boxlayout import BoxLayout
@@ -28,8 +29,24 @@ class AddActivityScreen(Screen):
         self.add_widget(layout)
 
     def on_submit(self, instance):
-        print(self.activity_name_input.text)
-        print(self.activity_points_input.text)
+        app = App.get_running_app()
+
+        existing_activities = app.store.get("activities")
+
+        exists = any(activity['name'] == self.activity_name_input.text for activity in existing_activities)
+
+        if exists:  # already exist
+            self.manager.current = 'activities'
+        else:
+            try:
+                activity_dict = {'name': self.activity_name_input.text,
+                                 'points': int(self.activity_points_input.text), 'count': 0}
+            except ValueError:
+                pass    # invalid activity_points_input
+            else:
+                existing_activities.append(activity_dict)
+                app.store.put_list('activities', existing_activities)
+                self.manager.current = 'activities'
 
     def goto_activities(self, instance):
         self.manager.current = 'activities'

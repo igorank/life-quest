@@ -9,7 +9,7 @@ from kivy.uix.button import Button
 
 class Activity:
     def __init__(self, activity, points_gain, count=0):
-        self.activity = activity
+        self.name = activity
         self.points = points_gain
         self.count = count
 
@@ -34,30 +34,6 @@ class ActivitiesView(RecycleView):
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
         self.data = [{'text': f'Item {i}'} for i in range(20)]
-
-
-# class AddActivityScreen(Screen):
-#     def __init__(self, **var_args):
-#         super(AddActivityScreen, self).__init__(**var_args)
-#
-#         activity_name = Label(text="Activity Name:")
-#         activity_points = Label(text="Activity Points:")
-#
-#         submit_button = Button(text="Submit", on_press=self.on_submit, size_hint_y=None, height=100)
-#         back_button = Button(text="Back", on_press=self.goto_activities, size_hint_y=None, height=100)
-#
-#         layout = BoxLayout(orientation='vertical', spacing=10)
-#         layout.add_widget(activity_name)
-#         layout.add_widget(activity_points)
-#         layout.add_widget(submit_button)
-#         layout.add_widget(back_button)
-#         self.add_widget(layout)
-#
-#     def on_submit(self, instance):
-#         pass
-#
-#     def goto_activities(self, instance):
-#         self.manager.current = 'activities'
 
 
 class ActivitiesScreen(Screen):

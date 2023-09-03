@@ -11,6 +11,22 @@ from activities_screen import ActivitiesScreen
 from add_activity import AddActivityScreen
 
 
+class MyJsonStore(JsonStore):
+
+    def __init__(self, filename, **kwargs):
+        super().__init__(filename, **kwargs)
+
+    def put_list(self, key, values):
+        """
+        Put a list of values into the storage under the given key.
+        Any existing data under the key will be replaced.
+        """
+        need_sync = self.store_put(key, values)
+        if need_sync:
+            self.store_sync()
+        return need_sync
+
+
 class MainScreen(Screen):
 
     def __init__(self, **var_args):
@@ -74,7 +90,7 @@ class MainScreen(Screen):
 class MyApp(App):
     def __init__(self):
         super().__init__()
-        self.store = JsonStore('data.json')
+        self.store = MyJsonStore('data.json')
 
     def get_points(self) -> int:
         if 'points' in self.store:
