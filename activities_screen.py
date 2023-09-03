@@ -15,15 +15,25 @@ class Activity:
 
 
 class ActivitiesViewButton(RecycleDataViewBehavior, Button):
+    def __init__(self, **kwargs):
+        super(ActivitiesViewButton, self).__init__(**kwargs)
+        self.data = kwargs.get('data', {})
+
     def refresh_view_attrs(self, rv, index, data):
         self.text = data['text']
+        self.data = data
         return super(ActivitiesViewButton, self).refresh_view_attrs(rv, index, data)
+
+    def on_press(self):
+        # Вызывайте нужное вам действие при нажатии на кнопку
+        activity_data = self.data  # Здесь можно получить данные элемента
+        print(f"Button pressed for activity: {activity_data['text']}")
 
 
 class ActivitiesView(RecycleView):
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
-        self.data = [{'text': f'Item {i}'} for i in range(10)]
+        self.data = [{'text': f'Item {i}'} for i in range(20)]
 
 
 class ActivitiesScreen(Screen):
