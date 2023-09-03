@@ -1,24 +1,13 @@
 <MainScreen>:
-    viewclass: 'LabelDataItem'  # Use the 'LabelDataItem' class for view items
-    data: root.data
-    RecycleBoxLayout:
-    	orientation: 'vertical'
-        default_size: None, dp(36)
-        default_size_hint: 1, None
-        size_hint_y: None
-        height: self.minimum_height
+    BoxLayout:
+        orientation: 'vertical'
 
-<LabelDataItem>:
-    canvas.before:
-        Color:
-            rgba: 0.2, 0.2, 0.2, 1
-        Rectangle:
-            pos: self.pos
-            size: self.size
-
-    text: ''
-    font_size: '18sp'
-    padding: dp(10), dp(10)
-    size_hint_y: None
-    height: self.texture_size[1] + dp(20)
-    valign: 'middle'
+<ActivitiesScreen>:
+    BoxLayout:
+        Button:
+            text: 'My settings button'
+        Button:
+            text: 'Back to menu'
+            on_press:
+                root.manager.transition.direction = 'right'
+                root.manager.current = 'main'
