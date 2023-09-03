@@ -46,6 +46,8 @@ class AddActivityScreen(Screen):
             else:
                 existing_activities.append(activity_dict)
                 app.store.put_list('activities', existing_activities)
+
+                self.activity_name_input.text = self.activity_points_input.text = ''
                 self.manager.current = 'activities'
 
     def goto_activities(self, instance):

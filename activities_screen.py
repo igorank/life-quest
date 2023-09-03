@@ -33,7 +33,9 @@ class ActivitiesViewButton(RecycleDataViewBehavior, Button):
 class ActivitiesView(RecycleView):
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
-        self.data = [{'text': f'Item {i}'} for i in range(20)]
+        app = App.get_running_app()
+        activities = app.store.get("activities")
+        self.data = [{'text': i['name']} for i in activities]
 
 
 class ActivitiesScreen(Screen):
