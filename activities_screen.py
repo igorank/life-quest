@@ -2,6 +2,28 @@ from kivy.app import App
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.screenmanager import Screen
 from kivy.uix.label import Label
+from kivy.uix.recycleview import RecycleView
+from kivy.uix.recycleview.views import RecycleDataViewBehavior
+from kivy.uix.button import Button
+
+
+class Activity:
+    def __init__(self, activity, points_gain, count=0):
+        self.activity = activity
+        self.points = points_gain
+        self.count = count
+
+
+class ActivitiesViewButton(RecycleDataViewBehavior, Button):
+    def refresh_view_attrs(self, rv, index, data):
+        self.text = data['text']
+        return super(ActivitiesViewButton, self).refresh_view_attrs(rv, index, data)
+
+
+class ActivitiesView(RecycleView):
+    def __init__(self, **kwargs):
+        super().__init__(**kwargs)
+        self.data = [{'text': f'Item {i}'} for i in range(10)]
 
 
 class ActivitiesScreen(Screen):
@@ -12,6 +34,9 @@ class ActivitiesScreen(Screen):
         self.points_label = Label(text=f"My Current Points: {app.get_points()}", font_size=30)
 
         layout = BoxLayout(orientation='vertical', spacing=10)
-        layout.add_widget(self.points_label)
-        self.add_widget(layout)
+        # layout.add_widget(self.points_label)
 
+        rv = ActivitiesView()
+        layout.add_widget(rv)
+
+        self.add_widget(layout)
